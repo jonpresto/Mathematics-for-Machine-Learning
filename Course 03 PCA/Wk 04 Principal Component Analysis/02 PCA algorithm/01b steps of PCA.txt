@@ -1,0 +1,4 @@
+1. Subtract the mean from the data and send it at zero to avoid numerical problems. 
+2, Divide by the standard deviation to make the data unit-free. 
+3. Compute the eigenvalues and eigen vectors of the data covariance matrix. 
+4. We can project any data point onto the principal subspace that is spanned by the eigenvectors that belong to the largest eigenvalues.

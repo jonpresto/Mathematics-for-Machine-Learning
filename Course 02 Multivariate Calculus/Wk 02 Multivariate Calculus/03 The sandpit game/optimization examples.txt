@@ -1,0 +1,8 @@
+* Jacobian describes the gradient of multivariable system
+* If you calculate it for a scalar valued multivariable function, you get a row vector pointing up the direction of greater slope
+
+* Optimization - finding the input values to functions, which correspond to either a maximum or a minimum of a system
+* Examples of mathematical optimization: 
+1. the planning of routes through busy cities (transportation)
+2. the scheduling of production in a factory (manufacturing)
+3. a strategy for selecting stocks when trading (finance)
